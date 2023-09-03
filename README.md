@@ -37,15 +37,18 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Je opdracht:
   http://www.wmrelektro.nl
+  
   Dit is de website van mijn schoonvader waar al 100 jaar geen aandacht meer aan besteed is. 
   Het lijkt mij leuk om hier een vernieuwde versie van te maken. 
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Homepage
+  
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Contact pagina
+  
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
