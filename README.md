@@ -41,6 +41,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Dit is de website van mijn schoonvader waar al 100 jaar geen aandacht meer aan besteed is. 
   Het lijkt mij leuk om hier een vernieuwde versie van te maken. 
 
+  Ik kies ervoor om het helemaal responsive te maken.
+
   #### Screenshot(s) van de eerste pagina (small screen): 
   Homepage
   
