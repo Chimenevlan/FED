@@ -36,17 +36,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  http://www.wmrelektro.nl
-  
-  Dit is de website van mijn schoonvader waar al 100 jaar geen aandacht meer aan besteed is. 
-  Het lijkt mij leuk om hier een vernieuwde versie van te maken. 
-
-  Ik kies ervoor om het helemaal responsive te maken.
+  https://www.lego.com/nl-nl
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  Homepage
   
-  <img src="readme-images/Homepage.png" width="375px" alt="omschrijving van de pagina">
+
+  <img src="readme-images/Contactpagina .png" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Contact pagina
