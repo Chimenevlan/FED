@@ -64,8 +64,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   - Met de reader  en highlight koppen, komen leest hij netjes de koppen voor. 
   - Er zijn heel veel knoppen te vinden. Ook afbeeldingen zijn linken, maar doordat er zoveel "linkjes" zijn is het onduidelijk waar het nu precies voor is.
   - de bovenste knoppen krijg ik niet geselecteerd met de reader
+    
   <img src="readme-images/Scherm­afbeelding 2023-09-12 om 18.17.51.png" width="375px" alt="omschrijving van de pagina">
+  
   - De reader geeft aan als er meerdere linken naast elkaar staan.
+    
   <img src="readme-images/Scherm­afbeelding 2023-09-12 om 18.18.56.png" width="375px" alt="omschrijving van de pagina">
 
 </details>
