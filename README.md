@@ -106,14 +106,33 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Agenda voor meeting
   samen met je groepje opstellen
+  Student 1 Chimene
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | Hoe kan ik 
-  knoppen/afbeeldingen 
-  juist donwnloaden   | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  - hoe kan ik op de juiste manier afbeeldingen/iconen/knoppen juist downloaden?
+  - Hoe kan ik de lettertype van mijn website in mijn code krijgen?
+  - Maakt het uit of je png gebruikt of moet het perse svg zijn?
+  - Doe ik het juist door classes te gebruiken om meerdere elementen te stijlen?
+
+   Student 2 Leanne 
+
+   - Hoe maak je een afbeelding van het logo ook hidden H1 in html>?
+   - Moet er voor de ul een nav?
+   - Bij H2 "populair" waar doe je de img tag?
+   - Hoe schrijf ik een bepaald stukje html van de footer?
+
+  Student 3 Martin
+
+  - Maakt het uit wat voor soort bestand de afbeelding is? (zelfde als Chimene)
+  - Hoe houd ik een icoontje op dezelfde plek in het scherm?
+  - Hoe zorg ik dat iets verdwijnt als ik scroll?
+  - Welke waardes zijn het handigst om te gebruiken als je alles responsive wilt hebben?
+
+  Student 4 Kim
+
+  - Hoe maak je een pauze knop voor een carrousel?
+  - Hoe maak ik de gekleurde ronde onderkanten bij de sections?
+  - Hoe loop je een animatie?
+  - Waarvoor mocht je nou precies wel een class voor gebruiken? 
 
 
   ### Verslag van meeting
