@@ -106,6 +106,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Agenda voor meeting
   samen met je groepje opstellen
+  
   Student 1 Chimene
 
   - hoe kan ik op de juiste manier afbeeldingen/iconen/knoppen juist downloaden?
