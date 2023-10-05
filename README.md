@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Chimène van Langen 
+  Sanne 't Hooft (vervangen door jouw naam)
 
   #### Je startniveau:
-  Blauwe piste 
+  hier je startniveau (kies uit zwart, rood óf blauw)
 
   #### Je focus:
-  De goede basis van code schrijven en hier ook zelfvertrouwen mee krijgen. 
+  hier je focus (kies uit responsive óf surface plane)
  
 </details>
 
@@ -36,18 +36,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  https://www.lego.com/nl-nl
+  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  Home pagina
-
-  <img src="readme-images/Homepagina .png" width="375px" alt="omschrijving van de pagina">
+  hier de naam van de pagina  
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  Product pagina
-
-
-  <img src="readme-images/Product pagina.png" width="375px" alt="omschrijving van de pagina">
+  hier de naam van de pagina  
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
@@ -61,16 +58,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
 
-  - Met de reader  en highlight koppen, komen leest hij netjes de koppen voor. 
-  - Er zijn heel veel knoppen te vinden. Ook afbeeldingen zijn linken, maar doordat er zoveel "linkjes" zijn is het onduidelijk waar het nu precies voor is.
-  - de bovenste knoppen krijg ik niet geselecteerd met de reader
-    
-  <img src="readme-images/Scherm­afbeelding 2023-09-12 om 18.17.51.png" width="375px" alt="omschrijving van de pagina">
-  
-  - De reader geeft aan als er meerdere linken naast elkaar staan.
-    
-  <img src="readme-images/Scherm­afbeelding 2023-09-12 om 18.18.56.png" width="375px" alt="omschrijving van de pagina">
-
 </details>
 
 
@@ -81,7 +68,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/breakdown schets.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
@@ -106,34 +93,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Agenda voor meeting
   samen met je groepje opstellen
-  
-  Student 1 Chimene
 
-  - hoe kan ik op de juiste manier afbeeldingen/iconen/knoppen juist downloaden?
-  - Hoe kan ik de lettertype van mijn website in mijn code krijgen?
-  - Maakt het uit of je png gebruikt of moet het perse svg zijn?
-  - Doe ik het juist door classes te gebruiken om meerdere elementen te stijlen?
-
-   Student 2 Leanne 
-
-   - Hoe maak je een afbeelding van het logo ook hidden H1 in html>?
-   - Moet er voor de ul een nav?
-   - Bij H2 "populair" waar doe je de img tag?
-   - Hoe schrijf ik een bepaald stukje html van de footer?
-
-  Student 3 Martin
-
-  - Maakt het uit wat voor soort bestand de afbeelding is? (zelfde als Chimene)
-  - Hoe houd ik een icoontje op dezelfde plek in het scherm?
-  - Hoe zorg ik dat iets verdwijnt als ik scroll?
-  - Welke waardes zijn het handigst om te gebruiken als je alles responsive wilt hebben?
-
-  Student 4 Kim
-
-  - Hoe maak je een pauze knop voor een carrousel?
-  - Hoe maak ik de gekleurde ronde onderkanten bij de sections?
-  - Hoe loop je een animatie?
-  - Waarvoor mocht je nou precies wel een class voor gebruiken? 
+  | student 1      | student 2          | student 3    | student 4        |
+  | ---            | ---                | ---          | ---              |
+  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
+  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | ...            | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
